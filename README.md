@@ -1,6 +1,6 @@
 # 案例图
 
-![image](upload/test.jpg)
+![image](upload/1.jpg)
 
 ## Recommended IDE Setup
 
