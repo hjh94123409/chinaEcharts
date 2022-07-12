@@ -1,6 +1,6 @@
-# novid-19
+# 案例图
 
-This template should help get you started developing with Vue 3 in Vite.
+![image](upload/test.jpg)
 
 ## Recommended IDE Setup
 
