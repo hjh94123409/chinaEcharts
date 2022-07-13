@@ -1,6 +1,6 @@
 # 案例图
 
-![image](upload/1.jpg)
+![image](https://raw.githubusercontent.com/hjh94123409/chinaEcharts/master/1.jpg)
 
 ## Recommended IDE Setup
 
